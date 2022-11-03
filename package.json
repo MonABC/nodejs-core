@@ -1,0 +1,22 @@
+{
+  "name": "031122",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonABC/nodejs-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonABC/nodejs-core/issues"
+  },
+  "homepage": "https://github.com/MonABC/nodejs-core#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
